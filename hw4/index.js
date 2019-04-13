@@ -12,9 +12,9 @@ const examples = {
   'example2':
       'Amen.',
   'example3':
-      'It has been obtained for her by the honesty of her adopted children.'      
+      'It has been obtained for her by the honesty of her adopted children.',
   'example4':
-      'The tragedie of HAMLET, Prince of Denmarke.'      
+      'The tragedie of HAMLET, Prince of Denmarke.'
 };
 
 function status(statusText) {

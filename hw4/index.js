@@ -13,7 +13,7 @@ const examples = {
       'Amen.',
   'example3':
       'It has been obtained for her by the honesty of her adopted children.'      
-  'example3':
+  'example4':
       'The tragedie of HAMLET, Prince of Denmarke.'      
 };
 

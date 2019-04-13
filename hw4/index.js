@@ -8,11 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Nay, he appeared so much otherwise, that his daughter's courage failed.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'Amen.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'It has been obtained for her by the honesty of her adopted children.'      
+  'example3':
+      'The tragedie of HAMLET, Prince of Denmarke.'      
 };
 
 function status(statusText) {

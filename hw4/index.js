@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Nay, he appeared so much otherwise, that his daughter's courage failed.',
+      'Nay, he appeared so much otherwise, that his daughters courage failed.',
   'example2':
       'Amen.',
   'example3':
